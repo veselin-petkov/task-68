@@ -48,7 +48,7 @@
   :-ms-input-placeholder      {@content}
 }
 
-$intensity:(filter:blur(4px));
+$intensity:(backdrop-filter:blur(4px));
 
-@mixin frost ($intensity){
+@mixin frost($intensity){
 }
